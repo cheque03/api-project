@@ -10,7 +10,7 @@
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "6.20.26",
+        "laravel/framework": "6.18.43",
         "laravel/tinker": "^1.0",
         "rap2hpoutre/laravel-log-viewer": "^1.3"
     },
